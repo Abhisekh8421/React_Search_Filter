@@ -28,9 +28,6 @@ Welcome to the Advanced React Search App, a powerful and feature-rich applicatio
 
 We welcome contributions from the community to make this project even better. Feel free to submit issues, feature requests, or pull requests.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
