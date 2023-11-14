@@ -1,4 +1,4 @@
-# Advanced React Search App
+# **React Search App**
 
 Welcome to the Advanced React Search App, a powerful and feature-rich application designed to take your React projects to the next level. This application combines the flexibility and dynamism of React with advanced search capabilities and API handling using Axios.
 
